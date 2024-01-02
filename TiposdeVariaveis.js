@@ -9,9 +9,9 @@ let Selecionavel = true
 
 let nomePessoa = "Pedro"
 let idade = 19
-let numTelefone = "(16)997377336"
-let cpf =  "543.377.708-10"
-let endereco = "Avenida Doutor Jose Reali"
+let numTelefone = 
+let cpf =  
+let endereco = 
 let recebePensao = true
 
 
